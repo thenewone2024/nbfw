@@ -1,11 +1,11 @@
 [package]
-name = "nbfw"
+name = "rustdesk"
 version = "1.3.0"
 authors = ["rustdesk <info@rustdesk.com>"]
 edition = "2021"
 build= "build.rs"
-description = "nbfw Remote Desktop"
-default-run = "nbfw"
+description = "rustdesk Remote Desktop"
+default-run = "rustdesk"
 rust-version = "1.75"
 
 [lib]
